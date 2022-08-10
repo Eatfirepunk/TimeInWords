@@ -12,6 +12,7 @@ HackerRank challenge link:
 TimeInWords challenge description:
 
 Given the time in numerals we may convert it into words, as shown below:
+
 5:00 --> five o' clock
 5:15 --> quarter past five
 5:27 --> twenty seven minutes past five
